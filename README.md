@@ -5,7 +5,7 @@
 ## 주소
 
 - GitHub 저장소: https://github.com/jongmins0410-cmyk/room-3d-project
-- GitHub Pages: Pages 활성화 후 주소 기입
+- GitHub Pages: https://jongmins0410-cmyk.github.io/room-3d-project/
 
 ## 어디를 골랐나
 
@@ -52,7 +52,7 @@
 - 내 폰: **미측정**
 - 남의 폰: **미측정**
 
-GitHub Pages 활성화 후 실제 모바일 회선에서 측정해 기입하면 됩니다.
+실제 모바일 회선에서 첫 화면까지 걸린 시간을 측정해 기입하면 됩니다.
 
 ## 안 나온 자리
 
@@ -87,6 +87,6 @@ room-3d-project/
 ├── scene.sog
 ├── .nojekyll
 ├── README.md
-└── shots/
-    └── viewer.jpg
+└── (선택) shots/
+    └── viewer.jpg  # 과제 화면 캡처
 ```
